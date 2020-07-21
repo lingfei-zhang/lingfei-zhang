@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **lingfei-zhang/lingfei-zhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### :cn:  Lingfei Zhang
+
+<img src="https://github-readme-stats.vercel.app/api?username=lingfei-zhang&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=true" />
